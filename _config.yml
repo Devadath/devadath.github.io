@@ -1,3 +1,4 @@
 name: Devadath V V
 markdown:         redcarpet
 highlighter:      pygments
+theme: hyde
