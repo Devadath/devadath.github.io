@@ -1,2 +1,3 @@
-	name: Devadath V V
-	markdown: kramdown
+name: Devadath V V
+markdown:         redcarpet
+highlighter:      pygments
